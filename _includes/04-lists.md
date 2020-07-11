@@ -1,3 +1,5 @@
-[ ] Tequila
-[ ] Motorcycling
-[ ] Yoga
+- Tequila
+- Motorcycling
+- Exercise
+ - Yoga
+ - Cardio
