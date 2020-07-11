@@ -1,1 +1,1 @@
-https://www.linkedin.com/in/seannothdurft/
+[LinkedIn](https://www.linkedin.com/in/seannothdurft/)
